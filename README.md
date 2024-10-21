@@ -10,26 +10,26 @@ Project Managers can easily schedule inspections for specific projects, assign d
 
 ### 2. 🔄 Inspection Rescheduling and Deletion
 Inspections can be easily rescheduled or deleted, allowing flexibility for any changes in the project timeline or unforeseen events.
-![Project Dashboard](UI images/res.png)
-![Project Dashboard](delete.png)
+![Project Dashboard](images/res.png)
+![Project Dashboard](images/delete.png)
 
 ### 3. 🔔 Inspection Notification for Assignee's Dashboard
 Once scheduled, assigned team members receive real-time notifications on their dashboard, keeping them informed of upcoming inspections.
-![Project Dashboard](n.png)
+![Project Dashboard](images/n.png)
 
 ### 4. 📝 Inspection Recording, Viewing, Updating, and Deleting
 During inspections, team members can:
    - Record issues, upload images, and log essential details.
    - View uploaded images with a **360° view** for enhanced clarity.
    - Update or delete inspection records as needed.
-     ![Project Dashboard](360.png)
+     ![Project Dashboard](images/360.png)
 
 ### 5. 📊 Dynamic Report Generation
 Generate **customizable inspection reports** dynamically, filtering specific criteria and generating reports based on the inspection details. These reports are downloadable in PDF format, making documentation and communication streamlined.
 
 ### 6. 🗺️ Map Integration for Location Tracking
 Inspections are tied to their physical locations through an integrated map feature, allowing users to view and verify site locations during scheduling and recording. This ensures accurate and efficient site management for inspections.
-![Project Dashboard](map.png)
+![Project Dashboard](images/map.png)
 
 ---
 
