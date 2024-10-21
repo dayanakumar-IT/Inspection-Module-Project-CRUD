@@ -4,7 +4,8 @@ The **Inspection** feature in A-Arch Build offers a robust system for managing a
 
 ## 🎥 Demo Video
 
-[![Watch the demo video](https://via.placeholder.com/150)](https://onedrive.live.com/[link-to-your-video](https://mysliit-my.sharepoint.com/:f:/g/personal/it22178640_my_sliit_lk/Ek36LgXyqs5KhGLo12W81zEBYQBi-TXa9VwiwChlzLKW6g?e=d0sRtn))
+[![Watch the demo video](https://via.placeholder.com/150)](https://drive.google.com/file/d/[your-video-id/view](https://drive.google.com/file/d/1Qjd0LYf-tbA3AMeaRyYOJBX4wubwC6Ay/view?usp=sharing))
+
 
 ---
 
@@ -40,6 +41,12 @@ Inspections are tied to their physical locations through an integrated map featu
 - **React.js**: Frontend framework for scheduling, recording, viewing inspections, and generating reports.
 - **Node.js**: Manages the backend logic for inspection workflows.
 - **Google Maps API**: Used for integrating maps to display and track project locations.
+
+---
+
+## 📝 Contributions
+
+This module is part of the larger A-Arch Build project developed by a group of 7 members for our second year project
 
 
 
