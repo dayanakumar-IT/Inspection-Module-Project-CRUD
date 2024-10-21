@@ -4,7 +4,7 @@ The **Inspection** feature in A-Arch Build offers a robust system for managing a
 
 ## 🎥 Demo Video
 
-[![Watch the demo video](https://via.placeholder.com/150)](https://onedrive.live.com/[link-to-your-video](https://mysliit-my.sharepoint.com/:v:/g/personal/it22178640_my_sliit_lk/ER--K30zCYtBnhXHDZRSVQIBJ7WXraV-TVm8v57zGYZlgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=I2CtRl))
+[![Watch the demo video](https://via.placeholder.com/150)](https://onedrive.live.com/[link-to-your-video]https://mysliit-my.sharepoint.com/:v:/g/personal/it22178640_my_sliit_lk/ER--K30zCYtBnhXHDZRSVQIBJJ8TrKTYLSI33f8acfQLIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cfQoha)
 
 ---
 
