@@ -4,7 +4,8 @@ The **Inspection** feature in A-Arch Build offers a robust system for managing a
 
 ## 🎥 Demo Video
 
-[![Watch the demo video](https://via.placeholder.com/150)](https://onedrive.live.com/[link-to-your-video](https://mysliit-my.sharepoint.com/:f:/g/personal/it22178640_my_sliit_lk/Ek36LgXyqs5KhGLo12W81zEBYQBi-TXa9VwiwChlzLKW6g?e=Zg6Bky)
+[![Watch the demo video](https://via.placeholder.com/150)](https://onedrive.live.com/[link-to-your-video](https://mysliit-my.sharepoint.com/:f:/g/personal/it22178640_my_sliit_lk/Ek36LgXyqs5KhGLo12W81zEBYQBi-TXa9VwiwChlzLKW6g?e=d0sRtn))
+
 ---
 
 ## 🔧 Features
