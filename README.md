@@ -6,7 +6,7 @@ The **Inspection** feature in A-Arch Build offers a robust system for managing a
 
 ### 1. 📅 Inspection Scheduling by Project Manager
 Project Managers can easily schedule inspections for specific projects, assign dates, times, and inspectors, ensuring timely reviews of each site.
-![Project Dashboard](inspection.png)
+![Project Dashboard](UI images/inspection.png)
 
 ### 2. 🔄 Inspection Rescheduling and Deletion
 Inspections can be easily rescheduled or deleted, allowing flexibility for any changes in the project timeline or unforeseen events.
