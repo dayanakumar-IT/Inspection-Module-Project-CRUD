@@ -1,6 +1,9 @@
 # 🏗️ A-Arch Build - Inspection Feature
 
 The **Inspection** feature in A-Arch Build offers a robust system for managing all stages of construction inspections. From scheduling to recording and generating reports, this module streamlines inspection workflows, making project management more efficient and transparent.
+![Demo of Inspection Feature](images/inspectiond.gif)
+
+
 
 ## 🔧 Features
 
