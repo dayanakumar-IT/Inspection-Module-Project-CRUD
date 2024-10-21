@@ -10,7 +10,7 @@ Project Managers can easily schedule inspections for specific projects, assign d
 
 ### 2. 🔄 Inspection Rescheduling and Deletion
 Inspections can be easily rescheduled or deleted, allowing flexibility for any changes in the project timeline or unforeseen events.
-![Project Dashboard](res.png)
+![Project Dashboard](UI images/res.png)
 ![Project Dashboard](delete.png)
 
 ### 3. 🔔 Inspection Notification for Assignee's Dashboard
